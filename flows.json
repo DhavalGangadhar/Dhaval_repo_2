@@ -29,7 +29,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 380,
-        "y": 100,
+        "y": 120,
         "wires": [
             []
         ]
@@ -46,8 +46,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 560,
-        "y": 100,
+        "x": 580,
+        "y": 120,
         "wires": []
     }
 ]
