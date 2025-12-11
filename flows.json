@@ -31,7 +31,9 @@
         "x": 380,
         "y": 120,
         "wires": [
-            []
+            [
+                "383b9f8805f50719"
+            ]
         ]
     },
     {
@@ -46,7 +48,7 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 580,
+        "x": 660,
         "y": 120,
         "wires": []
     }
